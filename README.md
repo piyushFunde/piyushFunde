@@ -22,9 +22,23 @@
 ![REST](https://img.shields.io/badge/REST-API-orange)
 ![GraphQL](https://img.shields.io/badge/GraphQL-pink)
 
-### 🗄️ Databases & APIs
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
-![REST](https://img.shields.io/badge/REST-API-orange)
-![GraphQL](https://img.shields.io/badge/GraphQL-pink)
+### ⚡ Tools & Deployment
+![Git](https://img.shields.io/badge/Git-orange)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+![Postman](https://img.shields.io/badge/Postman-orange)
+![Vercel](https://img.shields.io/badge/Vercel-black)
+![Netlify](https://img.shields.io/badge/Netlify-green)
+
+🏆 Achievements
+🥇 Forage – J.P. Morgan Chase & Co. Software Engineering Virtual Internship (2025)
+🚀 Smart India Hackathon – Internal Round (Top 50 / 564 teams)
+
+🌐 Connect With Me
+
+📧 Email: fundepiyush18@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/Piyush
+🐙 GitHub: https://github.com/piyushFunde
+
+
+
+
