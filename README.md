@@ -1,4 +1,4 @@
-👋 Hey there, I'm piyush-funde
+👋 Hey there, I'm piyushFunde
 🎓 B.Tech CSE Student @ MIT ADT University (2026)
 💻 Full-Stack Developer | Python & Java Programmer
 🚀Passionate about building scalable systems, intelligent applications, and real-world problem-solving solutions.
