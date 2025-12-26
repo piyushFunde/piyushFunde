@@ -19,9 +19,10 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________
 
 ### 🗄️ Databases & APIs
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-green)
-![REST](https://img.shields.io/badge/REST-API-orange)
+
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ____________________________________________________________________________________________________________________
 
 ### ⚡ Tools & Deployment
