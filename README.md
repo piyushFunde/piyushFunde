@@ -30,7 +30,7 @@ ________________________________________________________________________________
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 _____________________________________________________________________________________________________________________
 
-###📂 Projects
+📂 Projects
 
 🏥 BedsideBot – Multi-Assistant Healthcare System Syste | 🔗![GitHub](https://github.com/piyushFunde/Bedsidebot_app)
 
