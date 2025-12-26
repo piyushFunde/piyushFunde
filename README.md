@@ -1,4 +1,4 @@
-👋 Hey there, I'm Piyush Funde
+<h1>👋 Hey there, I'm Piyush Funde</h1>
 _________________________________________________________________________________________________________________
 🎓 B.Tech CSE Student @ MIT ADT University (2026)
 
