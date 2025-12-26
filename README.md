@@ -25,14 +25,14 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________
 
 ### ⚡ Tools & Deployment
-![Git](https://img.shields.io/badge/Git-orange)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 _____________________________________________________________________________________________________________________
 
-📂 Projects
+📁 Projects
 
-🏥 BedsideBot – Multi-Assistant Healthcare System Syste | 🔗![GitHub](https://github.com/piyushFunde/Bedsidebot_app)
+🏥 BedsideBot – Multi-Assistant Healthcare System Syste | [Github](https://github.com/piyushFunde/Bedsidebot_app)
 
 - Advanced healthcare assistant for bedridden patients.
 - Supports hand sign, voice, emotion, and eye gaze recognition.
