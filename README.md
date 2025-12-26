@@ -50,13 +50,13 @@ ________________________________________________________________________________
 - Demonstrates OOP concepts with GUI and database integration.
 
 _____________________________________________________________________________________________________________________
-🏆 Achievements
-🥇 Forage – J.P. Morgan Chase & Co. Software Engineering Virtual Internship (2025)
-🚀 Smart India Hackathon – Internal Round (Top 50 / 564 teams)
 
-🌐 Connect With Me
+<h2>🌐 Connect With Me</h2>
+
 📧 Email: fundepiyush18@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/Piyush
+
 🐙 GitHub: https://github.com/piyushFunde
 
 
