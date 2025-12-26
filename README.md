@@ -34,19 +34,25 @@ ________________________________________________________________________________
 
 <h2>📁 Projects</h2>
 
-<h3>🏥 BedsideBot – Multi-Assistant Healthcare System Syste</h3> | 🔗[Github](https://github.com/piyushFunde/Bedsidebot_app)
+<h3>🏥 BedsideBot – Multi-Assistant Healthcare System Syste</h3>
+
+🔗[Github](https://github.com/piyushFunde/Bedsidebot_app)
 
 - Advanced healthcare assistant for bedridden patients.
 - Supports hand sign, voice, emotion, and eye gaze recognition.
 - Enables efficient, hands-free patient communication.
 
-<h3>💰 Expense Tracker Pro</h3> | 🔗[GitHub]</h3>(https://github.com/piyushFunde/expense-tracker)
+<h3>💰 Expense Tracker Pro</h3> 
+
+🔗[GitHub](https://github.com/piyushFunde/expense-tracker)
 
 - Desktop-based expense tracking and budget management application.
 - Visualizes spending patterns with an intuitive UI built using CustomTkinter.
 
 
-<h3>🧑‍💼 Employee Management System</h3> | 🔗[GitHub]</h3>(https://github.com/piyushFunde/Project)
+<h3>🧑‍💼 Employee Management System</h3>
+
+🔗[GitHub](https://github.com/piyushFunde/Project)
 
 - Java-based employee and payroll management system.
 - Demonstrates OOP concepts with GUI and database integration.
