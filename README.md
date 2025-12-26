@@ -31,19 +31,23 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________
 
 ###📂 Projects
-🏥 BedsideBot – Multi-Assistant Healthcare System Syste 🔗 ![GitHub](https://github.com/piyushFunde/Bedsidebot_app)
+🏥 BedsideBot – Multi-Assistant Healthcare System Syste | ![GitHub](https://github.com/piyushFunde/Bedsidebot_app)
 
-BedsideBot is an advanced patient care system that uses multiple recognition technologies including hand sign ,
-voice recognition, emotion detection, and eye gaze tracking to help bedridden and physically disabled patients
-communicate their needs effectively.
+- Advanced healthcare assistant for bedridden patients.
+- Supports hand sign, voice, emotion, and eye gaze recognition.
+- Enables efficient, hands-free patient communication.
 
-💰 Expense Tracker Pro 🔗 GitHub
-A modern, professional desktop application to track your daily expenses, manage your budget, and visualize your 
-spending patterns. Built with CustomTkinter for a sleek, contemporary UI.
+💰 Expense Tracker Pro | ![GitHub](https://github.com/piyushFunde/expense-tracker)
 
-🧑‍💼 Employee Management System 🔗 GitHub
-A Java-based payroll and employee management system that demonstrates Object-Oriented Programming (OOP) principles 
-with GUI and database integration.
+- Desktop-based expense tracking and budget management application.
+- Visualizes spending patterns with an intuitive UI built using CustomTkinter.
+
+
+🧑‍💼 Employee Management System | ![GitHub](https://github.com/piyushFunde/Project)
+
+- Java-based employee and payroll management system.
+- Demonstrates OOP concepts with GUI and database integration.
+
 _____________________________________________________________________________________________________________________
 🏆 Achievements
 🥇 Forage – J.P. Morgan Chase & Co. Software Engineering Virtual Internship (2025)
