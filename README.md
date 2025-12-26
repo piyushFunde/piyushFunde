@@ -1,5 +1,5 @@
-👋 Hey there, I'm piyushFunde
-_______________________________________________________________________________________________________________
+👋 Hey there, I'm Piyush Funde
+_________________________________________________________________________________________________________________
 🎓 B.Tech CSE Student @ MIT ADT University (2026)
 
 💻 Full-Stack Developer | Python & Java Programmer|
@@ -7,28 +7,28 @@ ________________________________________________________________________________
 🚀Passionate about building scalable systems, intelligent applications, and real-world problem-solving solutions.
 
 🤝 Open to collaboration on exciting projects
-________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
 ## 🚀 Tech Stack & Tools
 
 ### 💻 Development
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-orange)
-![CSS3](https://img.shields.io/badge/CSS3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+___________________________________________________________________________________________________________________
 
 ### 🗄️ Databases & APIs
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
 ![REST](https://img.shields.io/badge/REST-API-orange)
+____________________________________________________________________________________________________________________
 
 ### ⚡ Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-orange)
 ![GitHub](https://img.shields.io/badge/GitHub-black)
+_____________________________________________________________________________________________________________________
 
-## 📊 GitHub Stats
-![Piyush GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushFunde&show_icons=true&theme=dark)
 
 🏆 Achievements
 🥇 Forage – J.P. Morgan Chase & Co. Software Engineering Virtual Internship (2025)
