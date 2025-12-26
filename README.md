@@ -31,7 +31,8 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________
 
 ###📂 Projects
-🏥 BedsideBot – Multi-Assistant Healthcare System Syste 🔗 GitHub
+🏥 BedsideBot – Multi-Assistant Healthcare System Syste 🔗 ![GitHub](https://github.com/piyushFunde/Bedsidebot_app)
+
 BedsideBot is an advanced patient care system that uses multiple recognition technologies including hand sign ,
 voice recognition, emotion detection, and eye gaze tracking to help bedridden and physically disabled patients
 communicate their needs effectively.
