@@ -30,21 +30,21 @@ ________________________________________________________________________________
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 _____________________________________________________________________________________________________________________
 
-📁 Projects
+<h2>📁 Projects</h2>
 
-🏥 BedsideBot – Multi-Assistant Healthcare System Syste | [Github](https://github.com/piyushFunde/Bedsidebot_app)
+🏥 BedsideBot – Multi-Assistant Healthcare System Syste | 🔗[Github](https://github.com/piyushFunde/Bedsidebot_app)
 
 - Advanced healthcare assistant for bedridden patients.
 - Supports hand sign, voice, emotion, and eye gaze recognition.
 - Enables efficient, hands-free patient communication.
 
-💰 Expense Tracker Pro | 🔗![GitHub](https://github.com/piyushFunde/expense-tracker)
+💰 Expense Tracker Pro | 🔗[GitHub](https://github.com/piyushFunde/expense-tracker)
 
 - Desktop-based expense tracking and budget management application.
 - Visualizes spending patterns with an intuitive UI built using CustomTkinter.
 
 
-🧑‍💼 Employee Management System | 🔗![GitHub](https://github.com/piyushFunde/Project)
+🧑‍💼 Employee Management System | 🔗[GitHub](https://github.com/piyushFunde/Project)
 
 - Java-based employee and payroll management system.
 - Demonstrates OOP concepts with GUI and database integration.
