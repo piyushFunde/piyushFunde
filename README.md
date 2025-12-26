@@ -1,5 +1,5 @@
 <h1>👋 Hey there, I'm Piyush Funde</h1>
-_________________________________________________________________________________________________________________
+
 
 🎓 B.Tech CSE Student @ MIT ADT University (2026)
 
@@ -34,19 +34,19 @@ ________________________________________________________________________________
 
 <h2>📁 Projects</h2>
 
-🏥 BedsideBot – Multi-Assistant Healthcare System Syste | 🔗[Github](https://github.com/piyushFunde/Bedsidebot_app)
+<h3>🏥 BedsideBot – Multi-Assistant Healthcare System Syste | 🔗[Github](https://github.com/piyushFunde/Bedsidebot_app)</h3>
 
 - Advanced healthcare assistant for bedridden patients.
 - Supports hand sign, voice, emotion, and eye gaze recognition.
 - Enables efficient, hands-free patient communication.
 
-💰 Expense Tracker Pro | 🔗[GitHub](https://github.com/piyushFunde/expense-tracker)
+<h3>💰 Expense Tracker Pro | 🔗[GitHub](https://github.com/piyushFunde/expense-tracker)</h3>
 
 - Desktop-based expense tracking and budget management application.
 - Visualizes spending patterns with an intuitive UI built using CustomTkinter.
 
 
-🧑‍💼 Employee Management System | 🔗[GitHub](https://github.com/piyushFunde/Project)
+<h3>🧑‍💼 Employee Management System | 🔗[GitHub](https://github.com/piyushFunde/Project)</h3>
 
 - Java-based employee and payroll management system.
 - Demonstrates OOP concepts with GUI and database integration.
