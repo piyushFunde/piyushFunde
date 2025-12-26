@@ -30,7 +30,20 @@ ________________________________________________________________________________
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 _____________________________________________________________________________________________________________________
 
+###📂 Projects
+🏥 BedsideBot – Multi-Assistant Healthcare System Syste 🔗 GitHub
+BedsideBot is an advanced patient care system that uses multiple recognition technologies including hand sign ,
+voice recognition, emotion detection, and eye gaze tracking to help bedridden and physically disabled patients
+communicate their needs effectively.
 
+💰 Expense Tracker Pro 🔗 GitHub
+A modern, professional desktop application to track your daily expenses, manage your budget, and visualize your 
+spending patterns. Built with CustomTkinter for a sleek, contemporary UI.
+
+🧑‍💼 Employee Management System 🔗 GitHub
+A Java-based payroll and employee management system that demonstrates Object-Oriented Programming (OOP) principles 
+with GUI and database integration.
+_____________________________________________________________________________________________________________________
 🏆 Achievements
 🥇 Forage – J.P. Morgan Chase & Co. Software Engineering Virtual Internship (2025)
 🚀 Smart India Hackathon – Internal Round (Top 50 / 564 teams)
