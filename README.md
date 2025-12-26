@@ -1,6 +1,7 @@
 👋 Hey there, I'm piyushFunde
+
 🎓 B.Tech CSE Student @ MIT ADT University (2026)
-💻 Full-Stack Developer | Python & Java Programmer
+💻 Full-Stack Developer | Python & Java Programmer|
 🚀Passionate about building scalable systems, intelligent applications, and real-world problem-solving solutions.
 🤝 Open to collaboration on exciting projects
 
@@ -22,6 +23,9 @@
 ### ⚡ Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-orange)
 ![GitHub](https://img.shields.io/badge/GitHub-black)
+
+## 📊 GitHub Stats
+![Piyush GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushFunde&show_icons=true&theme=dark)
 
 🏆 Achievements
 🥇 Forage – J.P. Morgan Chase & Co. Software Engineering Virtual Internship (2025)
