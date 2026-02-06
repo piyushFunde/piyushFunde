@@ -62,6 +62,12 @@ ________________________________________________________________________________
 - Java-based employee and payroll management system.
 - Demonstrates OOP concepts with GUI and database integration.
 
+<h3>🐞 BugFix AI – Intelligent Bug Analysis System</h3>
+
+🔗[GitHub](https://github.com/piyushFunde/BugFix-Ai)
+
+- BugFix AI is an **AI-powered backend analysis tool** designed to automatically analyze software bugs, identify root causes, and suggest reliable fixes using **Generative AI (Google Gemini / OpenAI)**
+
 <h3> 💻 Piyush Funde — Portfolio Website </h3>
 
 🔗[Link](https://piyushfunde-portfolio.vercel.app/)
