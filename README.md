@@ -41,10 +41,12 @@ ________________________________________________________________________________
 
 <h3> BugFix AI – Intelligent Bug Analysis System</h3>
 
-🔗[GitHub](https://github.com/piyushFunde/BugFix-Ai)
+🔗[BugFix-Ai](https://bugfix-ai-backend-odli.onrender.com/)
 
-- BugFix AI is an **AI-powered backend analysis tool** designed to automatically analyze software bugs, identify root causes, and suggest reliable fixes.
-- Clean modern dark-themed UI, Real-time loading feedback, Structured AI output display, User-friendly bug input form.
+–	Developed an interactive web interface for real-time debugging support and automated response visualization.
+–	Designed a scalable Spring Boot backend with REST APIs for real-time bug submission and AI-based analysis.
+–	Implemented modular AI integration architecture enabling seamless switching between multiple AI providers (Gemini/OpenAI).
+–	Developed an interactive web interface for real-time debugging support and automated response visualization.
 
 <h3> BedsideBot – Multi-Assistant Healthcare System Syste</h3>
 
