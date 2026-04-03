@@ -6,8 +6,6 @@
 💻 Backend Developer | Python & Java Programmer|
 
 🚀Passionate about building scalable systems, intelligent applications, and real-world problem-solving solutions.
-
-🤝 Open to collaboration on exciting projects
 __________________________________________________________________________________________________________________
 ## 🚀 Tech Stack & Tools
 
