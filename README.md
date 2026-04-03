@@ -1,15 +1,15 @@
 <h1> Hey there, I'm Piyush Funde</h1>
 
 
-🎓 B.Tech CSE Student MIT ADT University (2026)
+ B.Tech CSE Student MIT ADT University (2026)
 
-💻 Backend Developer | Python & Java Programmer|
+ Backend Developer | Python & Java Programmer|
 
-🚀Passionate about building scalable systems, intelligent applications, and real-world problem-solving solutions.
+ Passionate about building scalable systems, intelligent applications, and real-world problem-solving solutions.
 __________________________________________________________________________________________________________________
-## 🚀 Tech Stack & Tools
+## Tech Stack & Tools
 
-### 💻 Development
+### Development
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,14 +19,14 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________
 
-### 🗄️ Databases & APIs
+### Databases & APIs
 
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ____________________________________________________________________________________________________________________
 
-### ⚡ Tools & Deployment
+### Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -35,11 +35,11 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________
 
-<h2>📁 Projects</h2>
+<h2> Projects</h2>
 
 <h3> BugFix AI – Intelligent Bug Analysis System</h3>
 
-🔗[BugFix-Ai](https://bugfix-ai-backend-odli.onrender.com/)
+[BugFix-Ai](https://bugfix-ai-backend-odli.onrender.com/)
 
 - Developed an interactive web interface for real-time debugging support and automated response visualization.
 - Designed a scalable Spring Boot backend with REST APIs for real-time bug submission and AI-based analysis.
@@ -48,7 +48,7 @@ ________________________________________________________________________________
 
 <h3> BedsideBot – Multi-Assistant Healthcare System Syste</h3>
 
-🔗[Github](https://github.com/piyushFunde/Bedsidebot_app)
+[Github](https://github.com/piyushFunde/Bedsidebot_app)
 
 - Advanced healthcare assistant for bedridden patients.
 - Supports hand sign, voice, emotion, and eye gaze recognition.
@@ -56,7 +56,7 @@ ________________________________________________________________________________
 
 <h3> Expense Tracker Pro</h3> 
 
-🔗[GitHub](https://github.com/piyushFunde/expense-tracker)
+[GitHub](https://github.com/piyushFunde/expense-tracker)
 
 - Desktop-based expense tracking and budget management application.
 - Visualizes spending patterns with an intuitive UI built using CustomTkinter.
@@ -64,14 +64,14 @@ ________________________________________________________________________________
 
 <h3> Employee Management System</h3>
 
-🔗[GitHub](https://github.com/piyushFunde/Project)
+[GitHub](https://github.com/piyushFunde/Project)
 
 - Java-based employee and payroll management system.
 - Demonstrates OOP concepts with GUI and database integration.
 
 <h3>  Piyush Funde — Portfolio Website </h3>
 
-🔗[Link](https://piyushfunde-portfolio.vercel.app/)
+[Link](https://piyushfunde-portfolio.vercel.app/)
 
 - Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
   
@@ -79,13 +79,13 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________
 
-<h2>🌐 Connect With Me</h2>
+<h2> Connect With Me</h2>
 
-📧 Email: fundepiyush18@gmail.com
+ Email: fundepiyush18@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/Piyush
+ LinkedIn: https://www.linkedin.com/in/Piyush
 
-🐙 GitHub: https://github.com/piyushFunde
+ GitHub: https://github.com/piyushFunde
 
 
 
