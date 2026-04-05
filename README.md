@@ -1,7 +1,7 @@
 <h1> Hey there, I'm Piyush Funde</h1>
 
 
- B.Tech CSE Student MIT ADT University (2026)
+ B.Tech CSE Student MIT ADT University 
 
  Backend Developer | Python & Java Programmer|
 
