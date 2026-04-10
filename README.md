@@ -34,7 +34,25 @@ ________________________________________________________________________________
 
 <h2> Projects</h2>
 
-<h3> BugFix AI – Intelligent Bug Analysis System</h3>
+<h3> BedsideBot – Multi-Assistant Healthcare System Syste</h3>
+
+[Github](https://github.com/piyushFunde/Bedsidebot_app)
+
+- Developed a full-stack AI-powered Bedside Assistant using Flask, OpenCV, and Mediapipe to assist bedridden patients through gesture and voice-based interaction.
+- Implemented hand gesture recognition, voice command processing, and eye gaze tracking to enable touchless and accessible user control.
+- Integrated emotion detection using DeepFace to analyze patient expressions and enhance interaction experience.
+- Designed an interactive web-based interface (HTML, CSS, JavaScript) combining multiple AI modules, with real-time processing for healthcare assistance.
+  
+<h3>Visual Pipeline Engine</h3>
+
+ [GitHub](https://github.com/piyushFunde/Visual-Pipeline-Engine)
+
+- Developed a full-stack Visual Pipeline Engine using React (React Flow, Zustand) and Spring Boot (Java 17), enabling drag-and-drop workflow creation.
+- Implemented DAG validation and topological sorting to ensure correct execution order and prevent cyclic dependencies in pipelines.
+- Built RESTful APIs for parsing, saving, loading, and executing pipelines, with persistence using Spring Data JPA and H2 database.
+- Designed a pipeline execution engine with custom node types (Input, Output, LLM, API, Database, etc.) that simulates execution and generates step-by-step logs,     along with frontend and backend testing.
+
+ <h3> BugFix AI – Intelligent Bug Analysis System</h3>
 
 [BugFix-Ai](https://bugfix-ai-backend-odli.onrender.com/)
 
@@ -42,29 +60,6 @@ ________________________________________________________________________________
 - Designed a scalable Spring Boot backend with REST APIs for real-time bug submission and AI-based analysis.
 - Implemented modular AI integration architecture enabling seamless switching between multiple AI providers (Gemini/OpenAI).
 - Developed an interactive web interface for real-time debugging support and automated response visualization.
-
-<h3> BedsideBot – Multi-Assistant Healthcare System Syste</h3>
-
-[Github](https://github.com/piyushFunde/Bedsidebot_app)
-
-- Advanced healthcare assistant for bedridden patients.
-- Supports hand sign, voice, emotion, and eye gaze recognition.
-- Enables efficient, hands-free patient communication.
-
-<h3> Expense Tracker Pro</h3> 
-
-[GitHub](https://github.com/piyushFunde/expense-tracker)
-
-- Desktop-based expense tracking and budget management application.
-- Visualizes spending patterns with an intuitive UI built using CustomTkinter.
-
-
-<h3> Employee Management System</h3>
-
-[GitHub](https://github.com/piyushFunde/Project)
-
-- Java-based employee and payroll management system.
-- Demonstrates OOP concepts with GUI and database integration.
 
 <h3>  Piyush Funde — Portfolio Website </h3>
 
