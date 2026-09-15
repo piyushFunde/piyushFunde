@@ -1,83 +1,112 @@
-<h1> Hey there, I'm Piyush Funde</h1>
+<div align="center">
+  <h3>Piyush Funde / README.md</h3>
+</div>
 
+<div align="center">
+  <h1>Hi, I'm Piyush Funde 👋</h1>
+</div>
 
- B.Tech CSE Student MIT ADT University 
+<hr>
 
- Backend Developer | Python & Java Programmer|
+<div align="center">
+  <h2>Full Stack Web Developer</h2>
+</div>
 
- Passionate about building scalable systems, intelligent applications, and real-world problem-solving solutions.
-__________________________________________________________________________________________________________________
-## Tech Stack & Tools
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Code-Java%20%7C%20Python-0A0A0A?style=flat-square&logo=java&logoColor=white" alt="Java & Python" />
+    <img src="https://img.shields.io/badge/Build-Modern%20Web%20Apps-0A0A0A?style=flat-square" alt="Build modern web apps" />
+    <img src="https://img.shields.io/badge/Portfolio-piyushfunde.vercel.app-blue?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </p>
+</div>
 
-### Development
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
+  <p>
+    <strong>⚙️</strong> I build modern, high-performance web applications.
+    <strong>🌐</strong> Portfolio: <a href="https://piyushfunde-portfolio.vercel.app/">piyushfunde-portfolio.vercel.app</a>
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=piyushFunde&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </p>
+</div>
 
-___________________________________________________________________________________________________________________
+<hr>
 
-### Databases & APIs
+<div align="left">
+  <h2>Tech Stack</h2>
+</div>
 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-____________________________________________________________________________________________________________________
+<p>
+  <strong>Languages:</strong> Java, Python, JavaScript, TypeScript, SQL<br>
+  <strong>Frontend:</strong> React, Next.js, Tailwind CSS, Framer Motion, HTML, CSS<br>
+  <strong>Backend:</strong> Spring Boot, Flask, REST APIs, Node.js, Express<br>
+  <strong>Databases:</strong> MySQL, MongoDB, PostgreSQL, Firebase<br>
+  <strong>Cloud & DevOps:</strong> Docker, AWS, Git, GitHub, CI/CD
+</p>
 
-### Tools & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<hr>
 
-_____________________________________________________________________________________________________________________
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/8%2C082-Total%20Contributions-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="Total contributions" />
+      <br>
+      <sub>Sep 23, 2017 - Present</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/11-Current%20Streak-FF8C00?style=for-the-badge&logo=fire&logoColor=white" alt="Current streak" />
+      <br>
+      <sub>Sep 4 - Sep 14</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/136-Longest%20Streak-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="Longest streak" />
+      <br>
+      <sub>May 16, 2022 - Sep 28, 2022</sub>
+    </td>
+  </tr>
+</table>
 
-<h2> Projects</h2>
+<hr>
 
-<h3> BedsideBot – Multi-Assistant Healthcare System Syste</h3>
+<div align="center">
+  <h3>Projects</h3>
+</div>
 
-[Github](https://github.com/piyushFunde/Bedsidebot_app)
+### BedsideBot – Multi-Assistant Healthcare System
 
-- Developed a full-stack AI-powered Bedside Assistant using Flask, OpenCV, and Mediapipe to assist bedridden patients through gesture and voice-based interaction.
-- Implemented hand gesture recognition, voice command processing, and eye gaze tracking to enable touchless and accessible user control.
-- Integrated emotion detection using DeepFace to analyze patient expressions and enhance interaction experience.
-- Designed an interactive web-based interface (HTML, CSS, JavaScript) combining multiple AI modules, with real-time processing for healthcare assistance.
-  
-<h3>Visual Pipeline Engine</h3>
+<a href="https://github.com/piyushFunde/Bedsidebot_app">GitHub</a>
 
- [GitHub](https://github.com/piyushFunde/Visual-Pipeline-Engine)
+- Built an AI-powered bedside assistant using Flask, OpenCV, and Mediapipe for bedridden patients.
+- Implemented gesture recognition, voice commands, and eye-gaze interaction for touchless control.
+- Integrated emotion detection with DeepFace to improve patient interaction and accessibility.
+- Designed a responsive web interface combining multiple AI modules for real-time healthcare support.
 
-- Developed a full-stack Visual Pipeline Engine using React (React Flow, Zustand) and Spring Boot (Java 17), enabling drag-and-drop workflow creation.
-- Implemented DAG validation and topological sorting to ensure correct execution order and prevent cyclic dependencies in pipelines.
-- Built RESTful APIs for parsing, saving, loading, and executing pipelines, with persistence using Spring Data JPA and H2 database.
-- Designed a pipeline execution engine with custom node types (Input, Output, LLM, API, Database, etc.) that simulates execution and generates step-by-step logs,     along with frontend and backend testing.
+### Visual Pipeline Engine
 
- <h3> BugFix AI – Intelligent Bug Analysis System</h3>
+<a href="https://github.com/piyushFunde/Visual-Pipeline-Engine">GitHub</a>
 
-[BugFix-Ai](https://bugfix-ai-backend-odli.onrender.com/)
+- Developed a drag-and-drop visual workflow engine using React and Spring Boot.
+- Implemented DAG validation and topological sorting to prevent invalid execution order.
+- Built REST APIs for pipeline creation, storage, loading, and execution using Spring Data JPA.
+- Designed execution logs and custom node types for LLM, API, database, and input/output flows.
 
-- Developed an interactive web interface for real-time debugging support and automated response visualization.
-- Designed a scalable Spring Boot backend with REST APIs for real-time bug submission and AI-based analysis.
-- Implemented modular AI integration architecture enabling seamless switching between multiple AI providers (Gemini/OpenAI).
-- Developed an interactive web interface for real-time debugging support and automated response visualization.
+### BugFix AI – Intelligent Bug Analysis System
 
-<h3>  Piyush Funde — Portfolio Website </h3>
+<a href="https://bugfix-ai-backend-odli.onrender.com/">Live Demo</a>
 
-[Link](https://piyushfunde-portfolio.vercel.app/)
+- Created a debugging support platform for real-time bug submission and AI-driven analysis.
+- Built a scalable Spring Boot backend with modular API architecture.
+- Integrated multiple AI providers such as Gemini and OpenAI for flexible troubleshooting.
+- Designed a clean interface to visualize bug analysis and automated recommendations.
 
-- Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
-- It showcases my work, projects, skills, and journey as a developer passionate about **Java ,Backend Developer and Web Technologies**.
+<hr>
 
-_____________________________________________________________________________________________________________________
-
-<h2> Connect With Me</h2>
-
- Email: fundepiyush18@gmail.com
-
- LinkedIn: https://www.linkedin.com/in/Piyush
-
- GitHub: https://github.com/piyushFunde
-
-
-
+<div align="center">
+  <h3>Connect with me</h3>
+  <p>
+    <a href="mailto:fundepiyush18@gmail.com">Email</a> •
+    <a href="https://www.linkedin.com/in/piyush-funde">LinkedIn</a> •
+    <a href="https://github.com/piyushFunde">GitHub</a>
+  </p>
+</div>
 
