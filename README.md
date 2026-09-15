@@ -39,15 +39,14 @@
 </div>
 
 <div align="center" style="margin-top: 26px;">
-  <h3 style="margin: 0; font-size: 2rem; color: #f2f3f5;">Featured Projects</h3>
+  <h3 style="margin: 0; font-size: 3rem; color: #f2f3f5;">Featured Projects</h3>
 </div>
 
 ---
 
 <div style="margin-top: 26px;">
   <h3 style="margin: 0 0 12px 0; font-size: 1.7rem; color: #f2f3f5;">EVA CRM</h3>
-  <p style="margin: 0 0 10px 0;"><a href="#" style="color: #4aa3ff; text-decoration: none; font-size: 1.1rem;">GitHub</a></p>
-  <ul style="margin: 0; padding-left: 22px; color: #e7ebf0; font-size: 1rem; line-height: 1.7;">
+  <p style="margin: 0 0 10px 0;"><a href="https://crm.evagroups.in/" style="color: #4aa3ff; text-decoration: none; font-size: 1.1rem;">Website</a></p>  <ul style="margin: 0; padding-left: 22px; color: #e7ebf0; font-size: 1rem; line-height: 1.7;">
     <li>Full-stack CRM built for a real client (Eva Groups) to manage customer assignments, collections, and follow-ups.</li>
     <li>React, Java, Spring Boot, MySQL, JWT, Apache POI, WebSockets.</li>
     <li>Role-based access, Excel data ingestion, offline sync, and real-time updates.</li>
