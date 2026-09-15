@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" style="margin-top: 12px;">
-  <h1 style="margin: 0; font-size: 2.4rem; font-weight: 700; color: #f2f3f5;">Hi, I'm Piyush Funde 👋</h1>
+  <h1 style="margin: 0; font-size: 2.4rem; font-weight: 700; color: #f2f3f5;">Hi, I'm Piyush 👋</h1>
 </div>
 
 <div align="center" style="margin-top: 10px;">
