@@ -7,7 +7,7 @@
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <h2 style="margin: 0; font-size: 2.1rem; font-weight: 700; color: #f2f3f5;">Full Stack Web Developer</h2>
+  <h3 style="margin: 0; font-size: 2.1rem; font-weight: 700; color: #f2f3f5;">Full Stack Web Developer</h3>
   <p style="margin: 8px 0 0 0; font-size: 1.05rem; line-height: 1.7; color: #e7ebf0;">
     <span style="font-size: 1.25rem;">⚙️</span> I build modern, high-performance web applications.
     <span style="font-size: 1.25rem;">🌐</span> Portfolio: <a href="https://piyushfunde-dev.vercel.app/" style="color: #4aa3ff; text-decoration: none;">piyushfunde.site</a>
