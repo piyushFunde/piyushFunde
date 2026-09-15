@@ -3,8 +3,6 @@
   <h1>Hi, I'm Piyush 👋</h1>
 </div>
 
-<hr>
-
 <div align="center">
   <h2>Full Stack Web Developer</h2>
 </div>
