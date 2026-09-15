@@ -12,7 +12,7 @@
 <div align="center">
   <p>
     <strong>⚙️</strong> I build modern, high-performance web applications.
-    <strong>🌐</strong> Portfolio: <a href="https://piyushfunde-dev.vercel.app/">piyushfunde-portfolio.vercel.app</a>
+    <strong>🌐</strong> Portfolio: <a href="https://piyushfunde-dev.vercel.app/">piyushfunde-portfolio.site</a>
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=piyushFunde&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
