@@ -6,7 +6,6 @@
 <div align="center">
   <h2>Full Stack Web Developer</h2>
 </div>
-
 <div align="center">
   <p>
     <strong>⚙️</strong> I build modern, high-performance web applications.
