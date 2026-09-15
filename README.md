@@ -33,6 +33,8 @@
   <strong>Cloud & DevOps:</strong> Docker, AWS, Git, GitHub, CI/CD
 </p>
 
+---
+
 <div align="center" style="margin-top: 28px; margin-bottom: 18px;">
   <div style="width: 100%; max-width: 880px; height: 1px; background: rgba(255,255,255,0.18);"></div>
 </div>
