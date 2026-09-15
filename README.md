@@ -1,6 +1,3 @@
-<div align="center">
-  <h3>Piyush Funde / README.md</h3>
-</div>
 
 <div align="center">
   <h1>Hi, I'm Piyush Funde 👋</h1>
