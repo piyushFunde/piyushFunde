@@ -11,14 +11,6 @@
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Code-Java%20%7C%20Python-0A0A0A?style=flat-square&logo=java&logoColor=white" alt="Java & Python" />
-    <img src="https://img.shields.io/badge/Build-Modern%20Web%20Apps-0A0A0A?style=flat-square" alt="Build modern web apps" />
-    <img src="https://img.shields.io/badge/Portfolio-piyushfunde.vercel.app-blue?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-  </p>
-</div>
-
-<div align="center">
-  <p>
     <strong>⚙️</strong> I build modern, high-performance web applications.
     <strong>🌐</strong> Portfolio: <a href="https://piyushfunde-dev.vercel.app/">piyushfunde-portfolio.vercel.app</a>
   </p>
