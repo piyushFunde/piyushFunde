@@ -21,10 +21,10 @@
 </div>
 
 <p>
-  <strong>Languages:</strong> Java, Python, JavaScript, TypeScript, SQL<br>
-  <strong>Frontend:</strong> React, Next.js, Tailwind CSS, Framer Motion, HTML, CSS<br>
-  <strong>Backend:</strong> Spring Boot, Flask, REST APIs, Node.js, Express<br>
-  <strong>Databases:</strong> MySQL, MongoDB, PostgreSQL, Firebase<br>
+  <strong>Languages:</strong> Java, Python, JavaScript, SQL<br>
+  <strong>Frontend:</strong> React, Next.js, Tailwind CSS, HTML, CSS<br>
+  <strong>Backend:</strong> Spring Boot, Flask, REST APIs<br>
+  <strong>Databases:</strong> MySQL, MongoDB, PostgreSQL<br>
   <strong>Cloud & DevOps:</strong> Docker, AWS, Git, GitHub, CI/CD
 </p>
 
