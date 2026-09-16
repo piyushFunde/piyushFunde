@@ -59,7 +59,7 @@
   <ul style="margin: 0; padding-left: 22px; color: #e7ebf0; font-size: 1rem; line-height: 1.7;">
     <li>AI-powered bedside assistant for gesture and voice-based patient interaction.</li>
     <li>DeepFace emotion detection and OpenCV/Mediapipe-based computer vision.</li>
-    <li>🏆 Research paper accepted at IGNITE-2026.</li>
+    <li>Research paper accepted at IGNITE-2026.</li>
   </ul>
 </div>
 
