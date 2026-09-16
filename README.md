@@ -18,7 +18,7 @@
 </div>
 
 <div align="left" style="margin-top: 26px;">
-  <h2 style="margin: 0 0 18px 0; font-size: 2.3rem; font-weight: 700; color: #f2f3f5;">🧠 Tech Stack</h2>
+  <h2 style="margin: 0 0 18px 0; font-size: 2.3rem; font-weight: 700; color: #f2f3f5;"> Tech Stack</h2>
 </div>
 
 <p style="margin: 0; font-size: 1.08rem; line-height: 1.7; color: #f0f2f5;">
