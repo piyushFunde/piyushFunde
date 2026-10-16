@@ -22,9 +22,9 @@
 </div>
 
 <p style="margin: 0; font-size: 1.08rem; line-height: 1.7; color: #f0f2f5;">
-  <strong>Languages:</strong> Java, Python, JavaScript, T<br>
+  <strong>Languages:</strong> Java, Python, JavaScript<br>
   <strong>Frontend:</strong> React, HTML, CSS<br>
-  <strong>Backend:</strong> Spring Boot, Flask, REST APIsbr>
+  <strong>Backend:</strong> Spring Boot, Flask, REST APIs<br>
   <strong>Databases:</strong> MySQL, MongoDB, PostgreSQL<br>
   <strong>Cloud & DevOps:</strong> Docker, AWS, Git, GitHub, CI/CD
 </p>
